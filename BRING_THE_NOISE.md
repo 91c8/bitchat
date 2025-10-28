@@ -215,3 +215,4 @@ case versionAck = 0x21      // Acknowledge and agree on version
 ## Conclusion
 
 BitChat's Noise implementation provides encryption while maintaining the simplicity and performance required for a peer-to-peer messaging application. The protocol's elegant design ensures that people's communications remain private, authenticated, and forward-secure without sacrificing usability.
+
